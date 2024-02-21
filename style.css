@@ -20,10 +20,10 @@ html{
     font-size:63%;
     overflow-x: hidden;
 }
-body{
+/* body{
     background-color: var(--bg-color);
     color: var(--text-color);
-}
+} */
 section{
 min-height: 100vh;
 padding: 10rem 9% 20px 129px;
